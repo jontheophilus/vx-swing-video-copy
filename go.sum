@@ -1,0 +1,11 @@
+github.com/TheTitanrain/w32 v0.0.0-20180517000239-4f5cfb03fabf h1:FPsprx82rdrX2jiKyS17BH6IrTmUBYqZa/CXT4uvb+I=
+github.com/TheTitanrain/w32 v0.0.0-20180517000239-4f5cfb03fabf/go.mod h1:peYoMncQljjNS6tZwI9WVyQB3qZS6u79/N3mBOcnd3I=
+github.com/fsnotify/fsnotify v1.8.0 h1:dAwr6QBTBZIkG8roQaJjGof0pp0EeF+tNV7YBP3F/8M=
+github.com/fsnotify/fsnotify v1.8.0/go.mod h1:8jBTzvmWwFyi3Pb8djgCCO5IBqzKJ/Jwo8TRcHyHii0=
+github.com/kardianos/service v1.2.2 h1:ZvePhAHfvo0A7Mftk/tEzqEZ7Q4lgnR8sGz4xu1YX60=
+github.com/kardianos/service v1.2.2/go.mod h1:CIMRFEJVL+0DS1a3Nx06NaMn4Dz63Ng6O7dl0qH0zVM=
+github.com/sqweek/dialog v0.0.0-20240226140203-065105509627 h1:2JL2wmHXWIAxDofCK+AdkFi1KEg3dgkefCsm7isADzQ=
+github.com/sqweek/dialog v0.0.0-20240226140203-065105509627/go.mod h1:/qNPSY91qTz/8TgHEMioAUc6q7+3SOybeKczHMXFcXw=
+golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.13.0 h1:Af8nKPmuFypiUBjVoU9V20FiaFXOcuZI21p0ycVYYGE=
+golang.org/x/sys v0.13.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
